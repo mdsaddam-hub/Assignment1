@@ -53,5 +53,6 @@
 - Uses setTimeout() to create a delay.
 
 ##  Blog Post 
-[TYPE-NARROWING](./type-narrowing.md)
+[TYPE-NARROWING](./type-narrowing.md) 
+
 [TYPE-VS-INTERFACE](./type-vs-interface.md)
